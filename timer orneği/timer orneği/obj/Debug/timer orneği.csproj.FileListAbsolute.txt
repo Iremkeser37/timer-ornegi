@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\İREM10A\timer orneği\timer orneği\bin\Debug\timer orneği.exe.config
+C:\Users\User\Desktop\KORUMASIZ\İREM10A\timer orneği\timer orneği\bin\Debug\timer orneği.exe
+C:\Users\User\Desktop\KORUMASIZ\İREM10A\timer orneği\timer orneği\bin\Debug\timer orneği.pdb
+C:\Users\User\Desktop\KORUMASIZ\İREM10A\timer orneği\timer orneği\obj\Debug\timer orneği.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\İREM10A\timer orneği\timer orneği\obj\Debug\timer orneği.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\İREM10A\timer orneği\timer orneği\obj\Debug\timer_orneği.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\İREM10A\timer orneği\timer orneği\obj\Debug\timer_orneği.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\İREM10A\timer orneği\timer orneği\obj\Debug\timer orneği.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\İREM10A\timer orneği\timer orneği\obj\Debug\timer orneği.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\İREM10A\timer orneği\timer orneği\obj\Debug\timer orneği.exe
+C:\Users\User\Desktop\KORUMASIZ\İREM10A\timer orneği\timer orneği\obj\Debug\timer orneği.pdb
